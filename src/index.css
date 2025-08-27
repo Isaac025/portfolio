@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+body {
+  background: #0a0a0a;
+}
+
+.container {
+  @apply max-w-[1240px] w-full mx-auto p-4;
+}
