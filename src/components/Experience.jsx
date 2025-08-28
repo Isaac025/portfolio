@@ -21,16 +21,19 @@ const Experience = () => {
                   Freelance Developer
                 </h3>
                 <p className="text-[#C7C7C7] text-[16px] md:text-[18px] font-[400]">
-                  Nov 2023 — Present{" "}
+                  Aug 2025 — Present{" "}
                 </p>
               </div>
               <p
                 style={{ fontFamily: "'Manrope', sans-serif" }}
                 className="text-[#C7C7C7] font-[400] text-[16px] md:text-[18px] mt-[15px]"
               >
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                aute irure dolor in reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur.
+                As a freelance developer, I architect and develop responsive,
+                accessible web applications and websites using modern front-end
+                and back-end technologies. I work directly with clients to
+                gather requirements and deliver tailored, high-performance
+                solutions that align with their business objectives and
+                technical specifications.
               </p>
             </div>
             <div>
@@ -49,9 +52,11 @@ const Experience = () => {
                 style={{ fontFamily: "'Manrope', sans-serif" }}
                 className="text-[#C7C7C7] font-[400] text-[16px] md:text-[18px] "
               >
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                aute irure dolor in reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur.
+                As a full-stack intern, I support both front-end and back-end
+                development by contributing to feature implementation,
+                performance optimization, and codebase maintenance, while
+                building hands-on experience with modern web technologies and
+                development practices.
               </p>
             </div>
           </div>
