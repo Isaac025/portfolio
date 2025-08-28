@@ -1,5 +1,5 @@
 import React from "react";
-import hero from "../assets/hero2.png";
+import hero from "../assets/about.jpg";
 import { BsDot } from "react-icons/bs";
 import arrow from "../assets/arrow.png";
 import { FaLinkedinIn } from "react-icons/fa";
