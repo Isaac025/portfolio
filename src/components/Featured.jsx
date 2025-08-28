@@ -170,14 +170,14 @@ const Featured = () => {
                 style={{ fontFamily: "'Manrope', sans-serif" }}
                 className="font-medium text-[24px] md:text-[32px] text-[#FFFFFF]"
               >
-                Promotional landing page for our favorite show
+                Introducing TaskDuty – Your Ultimate Task Management Hub
               </h1>
               <p className="w-full font-[400] text-[16px] md:text-[18px] text-[#C7C7C7] leading-[160%] md:leading-[150%]">
-                Teamed up with a designer to breathe life into a promotional
-                webpage for our beloved show, Adventure Time. Delivered a fully
-                responsive design with dynamic content capabilities, seamlessly
-                integrating a newsletter feature to keep fans updated with the
-                latest adventures.
+                Teamed up with a designer to bring TaskDuty to life — a sleek,
+                responsive web platform that empowers users to create, edit,
+                delete, and manage all their tasks effortlessly. Featuring
+                dynamic content capabilities and a clean interface, TaskDuty
+                helps users stay organized and productive every step of the way.
               </p>
               <h3 className="text-[#FFFFFF] font-[600] md:text-[16px] uppercase my-[20px]">
                 Project Info

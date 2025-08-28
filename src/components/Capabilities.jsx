@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../assets/about1.png";
+import profile from "../assets/hero2.png";
 
 const Capabilities = () => {
   const skills = [
@@ -15,7 +15,11 @@ const Capabilities = () => {
   return (
     <div>
       <div className="container">
-        <img src={profile} alt="" className="my-[50px] md:my-[60px]" />
+        <img
+          src={profile}
+          alt=""
+          className="my-[50px] md:my-[60px] mx-auto rounded-[10px] max-w-[90%] w-full"
+        />
         <div className="flex flex-col md:flex-row items-start md:justify-between gap-3">
           <h1
             style={{ fontFamily: "'Bebas Neue', sans-serif" }}
