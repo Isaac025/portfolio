@@ -22,7 +22,7 @@ const Aboutme = () => {
             style={{ fontFamily: "'Manrope', sans-serif" }}
             className=" text-[#FFFFFF] text-[24px] md:text-[32px] leading-[140%] tracking-[0%] "
           >
-            I am a Full-Stack developer based in Nigeria. Has Mechanical
+            I am a Full-Stack developer based in Nigeria. Has Agricultural
             Engineering background.{" "}
           </h1>
           <p className="text-[18px] text-[#C7C7C7] leading-[160%] w-[95%] md:leading-[150%] font-[400] mt-[20px] mb-[40px]  ">

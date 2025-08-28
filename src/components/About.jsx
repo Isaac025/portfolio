@@ -20,7 +20,7 @@ const About = () => {
             style={{ fontFamily: "'Manrope', sans-serif" }}
             className="hidden md:block text-[#FFFFFF] text-[32px] leading-[140%] tracking-[0%] "
           >
-            I am a full-stack developer based in Nigeria. Has Mechanical
+            I am a full-stack developer based in Nigeria. Has Agricultural
             Engineering background.{" "}
           </h1>
           <p className="text-[18px] text-[#C7C7C7] leading-[150%] font-[400] mt-[20px] mb-[40px] hidden md:block ">

@@ -14,7 +14,7 @@ const Nav = () => {
           style={{ fontFamily: "'Bebas Neue', serif" }}
           className="text-[#C7C7C7] uppercase text-[32px] font-[400]  leading-[150%] tracking-[-1%]"
         >
-          Akano Isaac
+          <Link to="/">Akano Isaac</Link>
         </h1>
         <div
           style={{ fontFamily: "'Inter', sans-serif" }}
