@@ -75,7 +75,7 @@ const Contact = () => {
               <p className="mb-8 text-[#C7C7C7] text-[16px] md:text-[18px] font-[400]">
                 For more info, here’s my{" "}
                 <a
-                  href="/resume.pdf"
+                  href="/resume.docx"
                   className="text-[#FFFFFF] border-b border-[#D3E97A]"
                   target="_blank"
                   rel="noopener noreferrer"

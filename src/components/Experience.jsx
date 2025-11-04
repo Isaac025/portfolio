@@ -21,7 +21,7 @@ const Experience = () => {
                   Freelance Developer
                 </h3>
                 <p className="text-[#C7C7C7] text-[16px] md:text-[18px] font-[400]">
-                  Aug 2025 — Present{" "}
+                  Nov 2025 — Present{" "}
                 </p>
               </div>
               <p
@@ -42,7 +42,7 @@ const Experience = () => {
                   Full-Stack Intern
                 </h3>
                 <p className="text-[#C7C7C7] text-[16px] md:text-[18px] font-[400]">
-                  Aug 2025 — Present{" "}
+                  Aug 2025 — Oct 2025
                 </p>
               </div>
               <p className="text-[#D3E97A] text-[16px] md:text-[18px] font-[600] my-[15px] ">
